@@ -1,4 +1,4 @@
-# Day 7 — Business Case Study: Revenue Drop Diagnosis
+#  Business Case Study: Revenue Drop Diagnosis
 
 
 **Topic:** Business Case  Diagnosing a Revenue Drop  
