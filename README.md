@@ -19,7 +19,7 @@ The CEO reports:
 
 ## My Analysis
 
-### Step 1 — Clarifying Questions
+###  Clarifying Questions
 
 Before touching any data, I asked the CEO the following questions:
 
@@ -33,11 +33,9 @@ Before touching any data, I asked the CEO the following questions:
 3. **Is this month seasonally slower than normal?**
    Fashion is seasonal. Post-Eid or off-peak months naturally see lower sales. External factors must be eliminated before investigating internal ones.
 
-> **Consultant principle:** Never diagnose internal problems before ruling out external causes.
-
 ---
 
-### Step 2 — Hypothesis
+###  Hypothesis
 
 Using the eCommerce revenue formula:
 
@@ -58,7 +56,7 @@ Possible causes of the 36% drop:
 
 ---
 
-### Step 3 — Customer Journey Diagnosis
+### Customer Journey Diagnosis
 
 I mapped the drop against the 5-stage customer journey:
 
@@ -78,7 +76,7 @@ Awareness → Consideration → Purchase → Experience → Retention
 
 ---
 
-### Step 4 — Data Requested From Client
+###  Data Requested From Client
 
 I requested the following data covering the last 60 days vs the previous 60 days:
 
@@ -105,7 +103,7 @@ I requested the following data covering the last 60 days vs the previous 60 days
 
 ---
 
-### Step 5 — CEO Presentation 
+###  CEO Presentation 
 
 > Your store has been performing strongly for 2 years. This month's 36% revenue drop is significant — but the pattern tells an important story.
 >
